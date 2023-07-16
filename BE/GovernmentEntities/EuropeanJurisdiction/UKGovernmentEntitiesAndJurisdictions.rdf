@@ -69,7 +69,8 @@
 		<rdfs:seeAlso rdf:resource="https://law.gov.wales/"/>
 		<skos:definition>jurisdiction of the Courts of England and Wales</skos:definition>
 		<fibo-be-ge-ge:isJurisdictionOf rdf:resource="&fibo-be-ge-ukj;NationalAssemblyForWales"/>
-		<fibo-fnd-law-jur:hasReach rdf:resource="&lcc-3166-2-gb;EnglandAndWales"/>
+		<fibo-fnd-law-jur:hasReach rdf:resource="&lcc-3166-2-gb;England"/>
+		<fibo-fnd-law-jur:hasReach rdf:resource="&lcc-3166-2-gb;Wales"/>
 	</owl:NamedIndividual>
 	
 	<owl:NamedIndividual rdf:about="&fibo-be-ge-ukj;GovernmentOfGuernsey">
